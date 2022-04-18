@@ -100,3 +100,7 @@ article p {
         flex-direction: column-reverse;
     }
 }
+
+.border-right {
+    border-right: 2px solid #414b4d;
+}
